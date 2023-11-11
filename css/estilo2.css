@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    width: 80%;
+    max-width: 1200px;
+}
+
+#cabecera{
+    font-size: 1em;
+    margin-bottom: .5em;
+}
+
+#logo{
+    width: 10%;
+}
+#logo2{
+    width: 50.0em;
+}
+#logo3{
+    width: 800px;
+}
+
+#menu a{
+    text-decoration: none;
+}
+
+#menu li{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    padding: 0;
+    font-size: 1.5em;
+}
+
+#menu li a:hover{
+    color: #000;
+}
+
+#menu li a:visited{
+    color: #ff0000;
+}
+
+#contenido{
+    background: #4db300;
+    border: 2px solid #ff0000;
+    color: #fff;font-size: 2em;
+}
+
+.articulo h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    color: #ff0000;
+}
+
+.articulo{
+    font-size: 1em;
+}
